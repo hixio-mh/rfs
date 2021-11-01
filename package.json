@@ -65,7 +65,7 @@
     "gulp-postcss": "^9.0.0",
     "gulp-sass": "^5.0.0",
     "gulp-stylus": "^2.7.0",
-    "less": "^4.1.1",
+    "less": "^4.1.2",
     "less3": "npm:less@^3.13.1",
     "mocha": "^9.1.0",
     "node-sass": "^6.0.1",
