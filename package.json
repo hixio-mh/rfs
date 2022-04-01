@@ -75,7 +75,7 @@
     "sass": "^1.38.1",
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^22.0.0",
-    "stylus": "^0.54.8",
+    "stylus": "^0.57.0",
     "xo": "^0.44.0"
   },
   "mocha": {
